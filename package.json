@@ -1,7 +1,7 @@
 {
   "name": "react-tw-layouts",
   "version": "0.0.1",
-  "description": "Simple Tailwind-based React layouts",
+  "description": "Headless Tailwind-based layout components for React applications",
   "author": "CarlosEGuerraSilva",
   "license": "MIT",
   "main": "dist/index.js",
